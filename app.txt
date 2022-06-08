@@ -1,0 +1,3 @@
+one-way 
+two-way
+three -way
